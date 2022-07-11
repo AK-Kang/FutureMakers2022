@@ -7,4 +7,4 @@ The MIT FutureMakers Create-a-thon program started today, and I was really happy
 Today I learned more about different types of learning: supervised, unsupervised, semi-supervised, and reinforcement. It was interesting knowing more about different types of learning and their models. I also attended a seminar hosted by Mrs. Salila Yohn and discussed ethics regarding working in tech. I understood more about equality and equity and how to be as non-biased as one could in the workplace.
 
 7/8
-I learned about different runtime GPU, TPU, and CPU and when to use each. This was interesting since it could greatly improve the codes' runtime efficiency. I also learned a lot more machine learning models. I need to look at each of them and analyze them more closely so that I know when to use which.
+I learned about different runtime GPU, TPU, and CPU and when to use each. This was interesting since it could greatly improve the codes' runtime efficiency. I also learned a lot more about machine learning models. I need to look at each of them and analyze them more closely so that I know when to use which.
