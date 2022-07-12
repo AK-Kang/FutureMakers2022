@@ -8,3 +8,6 @@ Today I learned more about different types of learning: supervised, unsupervised
 
 7/8
 I learned about different runtime GPU, TPU, and CPU and when to use each. This was interesting since it could greatly improve the codes' runtime efficiency. I also learned a lot more about machine learning models. I need to look at each of them and analyze them more closely so that I know when to use which.
+
+7/11
+I learned about leadership and how to write engaging stories using elements of self, us, and now.
