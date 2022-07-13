@@ -11,3 +11,6 @@ I learned about different runtime GPU, TPU, and CPU and when to use each. This w
 
 7/11
 I learned about leadership and how to write engaging stories using elements of self, us, and now.
+
+7/12
+Today, I learned about tensors and different packages for machine learning: Tensorflow, Keras, and Pytorch. I learned the difference between these different packages and when to use which.
