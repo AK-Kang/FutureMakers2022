@@ -14,3 +14,6 @@ I learned about leadership and how to write engaging stories using elements of s
 
 7/12
 Today, I learned about tensors and different packages for machine learning: Tensorflow, Keras, and Pytorch. I learned the difference between these different packages and when to use which.
+
+7/13
+I learned about forward pass and backward pass. I also learned about how to combine features with weights and biases together to make predictions. 
