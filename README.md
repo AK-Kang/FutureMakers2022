@@ -17,3 +17,6 @@ Today, I learned about tensors and different packages for machine learning: Tens
 
 7/13
 I learned about forward pass and backward pass. I also learned about how to combine features with weights and biases together to make predictions. 
+
+7/14
+Today we learned about the basic structure of a convolutional neural network. A CNN is usually composed of a convolution layer, activation layer, pooling layer, and a fully connected layer. We also learned about different filters/kernels.
