@@ -20,3 +20,6 @@ I learned about forward pass and backward pass. I also learned about how to comb
 
 7/14
 Today we learned about the basic structure of a convolutional neural network. A CNN is usually composed of a convolution layer, activation layer, pooling layer, and a fully connected layer. We also learned about different filters/kernels.
+
+7/15
+Today I learned about different types of biases in machine learning models and how to try our best to decrease biases in various ways.
