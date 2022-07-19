@@ -23,3 +23,6 @@ Today we learned about the basic structure of a convolutional neural network. A 
 
 7/15
 Today I learned about different types of biases in machine learning models and how to try our best to decrease biases in various ways.
+
+7/18
+I learned about 3 parameters (depths, padding, and stride) that determine the size of the feature maps. I also learned more about the practices of Data Science in the real world.
