@@ -26,3 +26,6 @@ Today I learned about different types of biases in machine learning models and h
 
 7/18
 I learned about 3 parameters (depths, padding, and stride) that determine the size of the feature maps. I also learned more about the practices of Data Science in the real world.
+
+7/19
+I learned about the difference between classification and regression. I also learned that loss function is generally used to show the accuracy of a model. I learned about different aspects that compose a loss function, including learning rate and the gradient descent.
