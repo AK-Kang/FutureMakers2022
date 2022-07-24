@@ -29,3 +29,12 @@ I learned about 3 parameters (depths, padding, and stride) that determine the si
 
 7/19
 I learned about the difference between classification and regression. I also learned that loss function is generally used to show the accuracy of a model. I learned about different aspects that compose a loss function, including learning rate and the gradient descent.
+
+7/20
+Today I learned about different activation functions (ReLU, sigmoid, tanh, and so on) and when to use which for different input and output layers.
+
+7/21
+Today I considered the ethical problems for machine learning models and how to reduce bias by including more opinions from people of different backgrounds.
+
+7/22
+Today I learned about feature extraction and the process of image classification. I knew differernt ways of preprocessing the data so that they work better for our machine learning algorithms.
