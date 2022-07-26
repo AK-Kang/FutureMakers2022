@@ -38,3 +38,6 @@ Today I considered the ethical problems for machine learning models and how to r
 
 7/22
 Today I learned about feature extraction and the process of image classification. I knew differernt ways of preprocessing the data so that they work better for our machine learning algorithms.
+
+7/25
+I learned about overfitting and underfitting. I also learned to use different regularizations to reduce overfitting, for example L1, L2, dropout layer, and early stopping.
